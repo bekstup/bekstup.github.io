@@ -1,2 +1,3 @@
 # bekstup.github.io
-## **Beksultan** + Khadisha
+
+[Eduford](https://bekstup.github.io/webproject/)
